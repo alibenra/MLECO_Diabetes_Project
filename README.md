@@ -15,7 +15,7 @@ confounding-by-indication. Essentially, patients who receive insulin are systema
 also more likely to be readmitted. This creates a spurious positive association between insulin and readmission that has 
 nothing to do with insulin's actual effect.
 
-We use **Double/Debiased Machine Learning (DML)** to
+We use **Double Machine Learning (DML)** to
 disentangle treatment effects from this selection process.
 
 ---
