@@ -47,7 +47,7 @@ disentangle treatment effects from this selection process.
 ## Key Findings
 
 - In the **main Double Machine Learning (IRM) specification**, receiving any insulin is associated with an increase of about 1.45 percentage points in the probability of readmission within 30 days. 
-- In the **heterogeneity section**, the estimated effect appears somewhat larger for **older patients**, for **women**, and for **patients with prior inpatient hospital visits**, suggesting that the relationship may be stronger among clinically more complex individuals
+- In the **heterogeneity section**, we show how the estimated effect appears somewhat larger for **older patients**, for **women**, and for **patients with prior inpatient hospital visits**, suggesting that the relationship may be stronger among clinically more complex individuals. Therefore, this section, along with some sensitivity checks, allows us to essentially study **policy relevant** situations.
 - **Placebo analysis produces an estimate close to zero**, which supports the idea that the main result is capturing a real signal rather than pure modeling noise
 - **Results should still be interpreted cautiously and not as definitive proof of a causal harmful effect of insulin itself**
   - Treatment assignment is likely influenced by factors only imperfectly observed in the data, such as clinical judgment (upward confounding bias)
