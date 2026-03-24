@@ -1,6 +1,6 @@
 # MLECO_Diabetes_Project
 
-## Heterogenous Causal Effects of In-Hospital Insulin on 30-Day Readmission
+## Causal Effect of In-Hospital Insulin on 30-Day Readmission
 **A Double Machine Learning Approach**
 
 ---
